@@ -70,13 +70,13 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/gabrielmaialva33/winx-music-bot",
-        "required": true
+        "value": "https://github.com/MOA-YAD/music-moayad-bot-Bikram-Source-my",
+        "required": false
       },
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
         "value": "master",
-        "required": true
+        "required": false
       }
     },
     "buildpacks": [
